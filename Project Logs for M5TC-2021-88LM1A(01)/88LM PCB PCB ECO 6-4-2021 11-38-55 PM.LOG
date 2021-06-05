@@ -1,0 +1,9 @@
+Added Component: Designator=BO1(Adafruit USB-C Breakout)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.adafruit.com/product/4090"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BO1-7
+Added Pin To Net: NetName=GND Pin=BO1-8
+Added Pin To Net: NetName=GND Pin=BO1-MNT1
+Added Pin To Net: NetName=GND Pin=BO1-MNT2
+Added Member To Class: ClassName=88LM Schematic Member=Component BO1 Adafruit USB-C Breakout board socket PIN: 4090
+Added Room: Name=88LM Schematic
