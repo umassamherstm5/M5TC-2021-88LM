@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetBO2_2 Pin=BO2-2
+Removed Pin From Net: NetName=NetBO2_3 Pin=BO2-3
+Removed Pin From Net: NetName=NetBO2_4 Pin=BO2-4
+Removed Pin From Net: NetName=NetBO2_5 Pin=BO2-5
+Removed Pin From Net: NetName=NetBO2_6 Pin=BO2-6
+Removed Pin From Net: NetName=NetBO2_9 Pin=BO2-9
+Removed Pin From Net: NetName=NetBO2_10 Pin=BO2-10
+Removed Pin From Net: NetName=NetBO2_11 Pin=BO2-11
+Added Pin To Net: NetName=NetBO2_11 Pin=BO2-2
+Added Pin To Net: NetName=NetBO2_10 Pin=BO2-3
+Added Pin To Net: NetName=NetBO2_9 Pin=BO2-4
+Added Pin To Net: NetName=NetBO2_6 Pin=BO2-5
+Added Pin To Net: NetName=NetBO2_5 Pin=BO2-6
+Added Pin To Net: NetName=NetBO2_4 Pin=BO2-9
+Added Pin To Net: NetName=NetBO2_3 Pin=BO2-10
+Added Pin To Net: NetName=NetBO2_2 Pin=BO2-11
+Change Net Name : Old Net Name=NetBO2_2 New Net Name=NetBO2_11
+Change Net Name : Old Net Name=NetBO2_3 New Net Name=NetBO2_10
+Change Net Name : Old Net Name=NetBO2_4 New Net Name=NetBO2_9
+Change Net Name : Old Net Name=NetBO2_5 New Net Name=NetBO2_6
+Change Net Name : Old Net Name=NetBO2_6 New Net Name=NetBO2_5
+Change Net Name : Old Net Name=NetBO2_9 New Net Name=NetBO2_4
+Change Net Name : Old Net Name=NetBO2_10 New Net Name=NetBO2_3
+Change Net Name : Old Net Name=NetBO2_11 New Net Name=NetBO2_2
+Added Room: Name=88LM Schematic
